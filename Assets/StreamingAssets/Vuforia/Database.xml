@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ceanna_id2" size="0.085000 0.053222" />
+    <ImageTarget name="canes" size="0.083000 0.052351" />
+    <ImageTarget name="nauid" size="0.082550 0.052992" />
+  </Tracking>
+</QCARConfig>
